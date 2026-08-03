@@ -1,0 +1,6 @@
+{
+  "name": "威海荣成旅游攻略",
+  "description": "威海与荣成专属于2大1小（14岁男孩）的5天4夜旅游攻略，包含真实网评对比景点解析、当地美食推荐及AI智能行程规划。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
